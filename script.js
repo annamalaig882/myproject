@@ -23,7 +23,7 @@ const circle = document.getElementsByTagName('circle');
 const snoozeWave = document.querySelector('.wave');
 const snoozeText = document.querySelector('.snooze-text');
 
-alarmRingtone = new Audio("./ringtones/alexa ringtone.mp3");
+alarmRingtone = new Audio("./ringtones/neela nilave .mp3");
 let alarmListArr = [];
 
 
